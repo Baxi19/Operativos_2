@@ -1,1 +1,1 @@
-# Proyecto #2 del curso de Sistemas Operativos :fire:
+# Proyecto #2 del Curso de Sistemas Operativos :fire:
